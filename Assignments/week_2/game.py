@@ -88,7 +88,7 @@ question_2 = (input("Please choose the correct answer."))
 if question_2 == "4.":
     print("Your answer is correct!")
 elif question_1 == "1." or "2." or "3.":
-    print("False. The correct answer is polar bears. \n You have now visited all continents!")
+    print("False. The correct answer is polar bears. \n You have now visited all continents! Thank you for playing!")
 else:
     print("Invalid choice. Pleas choose between 1. and 4.")
 
